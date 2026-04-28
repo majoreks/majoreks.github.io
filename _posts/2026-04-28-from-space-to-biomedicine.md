@@ -32,8 +32,6 @@ Cloud platforms allow biomedical researchers to bring different types of data to
 
 Instead of moving massive files between hospitals, laboratories, and research centers, scientists can store data centrally and run analysis workflows close to where the data lives.
 
-This is especially important as biomedical datasets grow into the terabyte and petabyte scale [2].
-
 Cloud computing supports:
 
 - secure biomedical data sharing
@@ -75,11 +73,6 @@ Tools originally designed to manage satellite, planetary, and earth science data
 ## References
 
 [1] Crichton DJ, Cinquini L, Kincaid H, et al. From space to biomedicine: Enabling biomarker data science in the cloud. Cancer Biomark. 2022;33(4):479-488. doi:10.3233/CBM-210350
-
-[2] National Institutes of Health.  
-**“NIH expands biomedical research in the cloud with Microsoft Azure.”**  
-NIH News Release, July 20, 2021.  
-Available at: [https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure](https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure)
 
 [3] NASA Jet Propulsion Laboratory.  
 **“LabCAS: Laboratory Catalog and Archive Service.”**  
