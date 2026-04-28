@@ -79,8 +79,8 @@ Tools originally designed to manage satellite, planetary, and earth science data
 [2] National Institutes of Health.  
 **“NIH expands biomedical research in the cloud with Microsoft Azure.”**  
 NIH News Release, July 20, 2021.  
-Available at: https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure
+Available at: [https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure](https://www.nih.gov/news-events/news-releases/nih-expands-biomedical-research-cloud-microsoft-azure)
 
 [3] NASA Jet Propulsion Laboratory.  
 **“LabCAS: Laboratory Catalog and Archive Service.”**  
-Available at: https://edrn-labcas.jpl.nasa.gov/
+Available at: [https://edrn-labcas.jpl.nasa.gov/](https://edrn-labcas.jpl.nasa.gov/)
